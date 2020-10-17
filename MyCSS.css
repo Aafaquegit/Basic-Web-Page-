@@ -1,0 +1,23 @@
+
+html, body{
+    height : 100%;
+}
+
+#cover{
+    background: url('https://en.wikipedia.org/wiki/Bear#/media/File:Black_bear_large.jpg') center center no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 100%;
+    display:flex;
+    align-items: center;
+}
+
+#cover-caption{
+    width: 100%;
+}
+
+footer{
+    color : white;
+    background-color: black;
+    padding : 30px;
+}
